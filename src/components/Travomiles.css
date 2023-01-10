@@ -1,0 +1,26 @@
+body{
+    background: black;
+}
+.textdecorate{
+    margin: 0;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.textdecorate h1{
+  text-align: center;
+  color:white;
+  font-size: 80px;
+  height:50px;
+  font-style: italic;
+}
+.textdecorate h4
+{
+    color: rgb(248, 239, 239);
+    text-align: center;
+    font-size: xx-large;
+
+}
